@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+    height: auto;
+    width: auto;
+}
+.grid {
+    row-gap: 2rem; /* Adjust this to reduce vertical spacing */
+  }
+  
